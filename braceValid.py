@@ -1,3 +1,5 @@
+#Amy's code
+
 my_Str = 'W(a{t}s[o(n{ c}o)m]e )h[e{r}e]!'
 
 def bracesValid(str):
